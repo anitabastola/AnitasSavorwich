@@ -14,7 +14,6 @@ public class HomeScreen {
 
     }
 
-    public static Order order = new Order();
 
 
 
