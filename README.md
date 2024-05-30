@@ -1,9 +1,9 @@
 # Project Title
-Online Store is the name of the Project
+AnitasSavorwich
 
 ## Description of the Project:
 
-- This i          s a Java console application that allows users to create a sandwich and customize their sandwich based on their liking from an online ordering app.
+- This is a Java console application that allows users to create a sandwich and customize their sandwich based on their liking from an online ordering app.
 The application intends to improve the order management for customers while simultaneously providing customers a convenient user-friendly app. The purpose of
 AnitasSavorwich is designed to make it easy for customers to place customized orders. The intended audience are the customers who want to order customized sandwiches
 through an online app. The main functionality of AnitasSavorwich allows customers to select variety of toppings to add to their sandwich. Another function would include
