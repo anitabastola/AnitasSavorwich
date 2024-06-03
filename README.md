@@ -1,9 +1,5 @@
 # Project Title
-<<<<<<< HEAD
 AnitasSavorwich is the name of the Project
-=======
-AnitasSavorwich
->>>>>>> 5e5d5f3551230ae5e57675e27a8d684fa99ba458
 
 ## Description of the Project:
 
@@ -94,6 +90,8 @@ Follow these steps to get your application running within IntelliJ IDEA:
 [Copy of classdiagram.drawio.pdf](..%2F..%2F..%2FDownloads%2FCopy%20of%20classdiagram.drawio.pdf)
 ![img_1.png](img_1.png)
 ![img_2.png](img_2.png)
+![image](https://github.com/anitabastola/AnitasSavorwich/assets/166552121/c95df91d-c729-4096-bd64-c63c0502350f)
+
 
 
 ## Thanks
