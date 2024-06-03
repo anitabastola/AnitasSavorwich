@@ -31,10 +31,10 @@ public class Drink {
 
         switch(size.toLowerCase()) {
             case "small":
-                price = 1.00;
+                price = 2.00;
                 break;
             case "medium":
-                price = 2.00;
+                price = 2.50;
                 break;
             case "large":
                 price = 3.00;

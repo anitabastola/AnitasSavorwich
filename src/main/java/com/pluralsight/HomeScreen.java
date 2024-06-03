@@ -6,20 +6,25 @@ import java.util.Scanner;
 
 
 public class HomeScreen {
-    public static void main(String[] args) {
-
-    }
     Scanner scanner = new Scanner(System.in);
+    public static void main(String[] args) {
+        new HomeScreen().displayHomeScreen();
+    }
+        public void displayHomeScreen() {
 
-    public void displayHomeScreen() {
+            while (true) {
+                System.out.println("WELCOME TO ANITASSAVORWICH!");
+                System.out.println("1) New Order");
+                System.out.println("0) Exit");
+                System.out.println("Choose option");
+                int choice = scanner.nextInt();
+                scanner.nextLine();
 
-        boolean running = true;
-        while (running) {
-            System.out.println("WELCOME TO ANITASSAVORWICH!");
-            System.out.println("1) New Order");
-            System.out.println("0) Exit");
-        }
+                switch (choice) {
+                    case 1:
 
+                }
+            }
 
 
 
