@@ -92,6 +92,9 @@ Follow these steps to get your application running within IntelliJ IDEA:
 ## Class Diagram
 !
 [Copy of classdiagram.drawio.pdf](..%2F..%2F..%2FDownloads%2FCopy%20of%20classdiagram.drawio.pdf)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+
 
 ## Thanks
 
