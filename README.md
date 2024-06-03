@@ -1,15 +1,21 @@
 # Project Title
-Online Store is the name of the Project
+AnitasSavorwich is the name of the Project
 
 ## Description of the Project:
 
-- This i          s a Java console application that allows users to create a sandwich and customize their sandwich based on their liking from an online ordering app.
+- This is a Java console application that allows users to create a sandwich and customize their sandwich based on their liking from an online ordering app.
 The application intends to improve the order management for customers while simultaneously providing customers a convenient user-friendly app. The purpose of
 AnitasSavorwich is designed to make it easy for customers to place customized orders. The intended audience are the customers who want to order customized sandwiches
 through an online app. The main functionality of AnitasSavorwich allows customers to select variety of toppings to add to their sandwich. Another function would include
 customer being able to view their order by either adding or removing items and securely paying for their orders online. It allows customers to select a type of bread, size and toppings.
 It displays an option to add either chips or drink to your order and the cost of your order before checking out. It also generates a receipt file with the order details for record purposes.
-By providing a user-friendly console that is efficeient for customers to order a customized sandwich improves customer satisfaction.
+By providing a user-friendly console that is efficient for customers to order a customized sandwich improves customer satisfaction.
+
+
+## Set Up
+First, you need to download IntelliJ IDEA. Open the IntelliJ program after it is finished downloading. Now, you will need to click on new file, new, project and make sure
+you click on Java to have the right language opened.
+Then you wil have to set your project making sure you are using Mavern 17 correto and your grouped ID as com.pluralsight and titling your project with a capital letter.
 
 
 ## User Stories
@@ -53,8 +59,16 @@ Follow these steps to get your application running within IntelliJ IDEA:
 - Java JDK
 
 ## Demo
--
 
+
+## Running the Application in IntelliJ
+Follow these steps to get your application running within IntelliJ IDEA:
+
+1. Open IntelliJ IDEA.
+2. Select "Open" and navigate to the directory where you cloned or downloaded the project.
+3. After the project opens, wait for IntelliJ to index the files and set up the project.
+4. Find the main class with the public static void main(String[] args) method.
+5. Right-click on the file and select 'Run 'YourMainClassName.main()'' to start the application.
 
 
 ## Future Work
@@ -79,5 +93,10 @@ Follow these steps to get your application running within IntelliJ IDEA:
 
 Express gratitude towards those who provided help, guidance, or resources:
 
-- Thank you to Raymond for continuous support and guidance.
-- A special thanks to all teammates for their dedication and teamwork.
+- I would also like to thank our instructor Raymond for being our biggest 
+supporter throughout the week. He has been very helpful and dedicating extra 
+time to help students with what they need.
+- Resources include our previous exercises, the workbook with examples, and in
+class demos were very useful in the capstones. I would like to thank everybody
+for working hard on this capstones and not giving up when facing an issue. You
+all have done wonderful work and I hope to see the same dedication throughout our program.

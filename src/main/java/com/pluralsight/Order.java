@@ -24,12 +24,39 @@ public class Order {
         return customer;
     }
 
+
     public Order(List<Sandwich> sandwiches, List<Drink> drinks, List<Chips> chips, Customer customer) {
         this.sandwiches = sandwiches;
         this.drinks = drinks;
         this.chips = chips;
         this.customer = customer;
+    }
+
+    public void addSandwich(Sandwich sandwich) {
+        sandwiches.add(sandwich);
+    }
+
+    public void addDrink(Drink drink) {
+        drinks.add(drink);
+    }
+
+    public void addChip(Chips chip) {
+        chips.add(chip);
+    }
 
 
+
+    public double totalPrice() {
+        double total = 0;
+        for (Sandwich sandwich : sandwiches) {
+            total += sandwich.getPrice();
+        }
+        for (Drink drink : drinks) {
+            total += drink.getPrice();
+        }
+        for (Chips chip : chips) {
+            total += chip.getPrice();
+        }
+        return total;
     }
 }
