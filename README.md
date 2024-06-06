@@ -1,9 +1,5 @@
 # Project Title
-<<<<<<< HEAD
 AnitasSavorwich is the name of the Project
-=======
-AnitasSavorwich
->>>>>>> 5e5d5f3551230ae5e57675e27a8d684fa99ba458
 
 ## Description of the Project:
 
@@ -94,13 +90,14 @@ Follow these steps to get your application running within IntelliJ IDEA:
 [Copy of classdiagram.drawio.pdf](..%2F..%2F..%2FDownloads%2FCopy%20of%20classdiagram.drawio.pdf)
 ![img_1.png](img_1.png)
 ![img_2.png](img_2.png)
+![image](https://github.com/anitabastola/AnitasSavorwich/assets/166552121/c95df91d-c729-4096-bd64-c63c0502350f)
+
 
 
 ## Thanks
 
 Express gratitude towards those who provided help, guidance, or resources:
 
-<<<<<<< HEAD
 - I would also like to thank our instructor Raymond for being our biggest 
 supporter throughout the week. He has been very helpful and dedicating extra 
 time to help students with what they need.
@@ -108,7 +105,7 @@ time to help students with what they need.
 class demos were very useful in the capstones. I would like to thank everybody
 for working hard on this capstones and not giving up when facing an issue. You
 all have done wonderful work and I hope to see the same dedication throughout our program.
-=======
+
 - Thank you to Raymond for continuous support and guidance.
 - A special thanks to all teammates for their dedication and teamwork.
->>>>>>> 5e5d5f3551230ae5e57675e27a8d684fa99ba458
+
