@@ -7,6 +7,8 @@ public class Chips {
         this.type = type;
     }
     public double getPrice() {
-        return 1.50;
+        double price = 0;
+
+        return price;
     }
 }

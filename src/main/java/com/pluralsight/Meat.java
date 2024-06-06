@@ -2,8 +2,10 @@ package com.pluralsight;
 
 public class Meat extends PremiumTopping {
     private boolean extraMeat;
-    public Meat(String name, double price) {
-        super(name, price);
+
+    public Meat(String name, boolean extraMeat) {
+        super(name);
+        this.extraMeat = extraMeat;
     }
 
     @Override

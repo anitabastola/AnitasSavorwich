@@ -32,18 +32,18 @@ public class Order {
         this.customer = customer;
     }
 
-    public void addSandwich() {
+    public void addSandwich(Sandwich sandwich) {
         sandwiches.add(sandwich);
     }
 
-    public void addDrink() {
+    public void addDrink(Drink drink) {
         drinks.add(drink);
+
     }
 
-    public void addChip() {
+    public void addChip(Chips chip) {
         chips.add(chip);
     }
-
 
 
     public double totalPrice() {

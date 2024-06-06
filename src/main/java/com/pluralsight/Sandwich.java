@@ -11,10 +11,10 @@ public class Sandwich {
     private List<Topping> toppings;
 
 
-    public Sandwich(String size, String typeofBread, boolean isToasted, List<Topping> toppings) {
+    public Sandwich(String size, String typeofBread) {
         this.size = size;
         this.typeofBread = typeofBread;
-        this.isToasted = isToasted;
+        this.isToasted = false;
         this.toppings = new ArrayList<>(toppings);
     }
 
